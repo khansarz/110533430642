@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!--
-Algoritma Program
- 1. Mulai
- 2. Jika session dengan nama 'nlogin' dan ber-value 'aril' ter-set maka akan tampil halaman isi data yang ada di basis data
- 2. Jika session dengan nama 'nlogin' dan ber-value 'aril' belum ter-set maka akan tampil halaman login
- 4. Selesai
--->
+
         <head>
                 <style>
 				.judul{
