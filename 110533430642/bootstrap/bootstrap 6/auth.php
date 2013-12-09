@@ -3,8 +3,8 @@ defined('_VALID') or die('not allowed');
 
 function init_login() {
         //Simulasi data account nama dan password
-        $nama = 'aril';
-        $pass = 'aril';
+        $nama = 'hevi';
+        $pass = 'hevi';
         
         if(isset($_POST['nama']) && isset($_POST['pass'])) {
                 $n = trim($_POST['nama']);
